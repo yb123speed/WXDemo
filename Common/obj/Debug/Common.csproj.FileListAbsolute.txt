@@ -1,0 +1,9 @@
+d:\用户目录\我的文档\visual studio 2013\Projects\WXDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2013\Projects\WXDemo\Common\bin\Debug\Common.dll
+d:\用户目录\我的文档\visual studio 2013\Projects\WXDemo\Common\bin\Debug\Common.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\WXDemo\Common\bin\Debug\ChineseConverter.dll
+d:\用户目录\我的文档\visual studio 2013\Projects\WXDemo\Common\bin\Debug\ChnCharInfo.dll
+d:\用户目录\我的文档\visual studio 2013\Projects\WXDemo\Common\bin\Debug\Newtonsoft.Json.dll
+d:\用户目录\我的文档\visual studio 2013\Projects\WXDemo\Common\bin\Debug\Newtonsoft.Json.xml
+d:\用户目录\我的文档\visual studio 2013\Projects\WXDemo\Common\obj\Debug\Common.dll
+d:\用户目录\我的文档\visual studio 2013\Projects\WXDemo\Common\obj\Debug\Common.pdb
